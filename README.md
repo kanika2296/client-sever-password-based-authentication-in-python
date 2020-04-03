@@ -9,7 +9,7 @@ CLIENT : socket
 HASH : SHA256 ( using pythons hashlib)
 
 ```
-INPUT
+INPUT (client side)
 1. Username
 2. Password
 ```
