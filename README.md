@@ -3,6 +3,8 @@ Client-Server program which will facilitate a client to register itself to the s
 
 This program registers user with username, password and stores password hash in dictonary. Also, when a user tries to login , password validation occurs.
 
+Python,Socket programming 
+
 ## IMPLEMENTATION (python3)
 SERVER : socket with multithreading
 CLIENT : socket
